@@ -5,10 +5,15 @@ To study the process of troubleshooting of Operating System.
 
 ## STEPS:
 1)Identify the problem.
-2)Establish a theory of Probable Cause
+
+2)Establish a theory of Probable Cause.
+
 3)Test the theory to determine cause.
-4)Establish a plan of action to resolve the problem and implement the solution
+
+4)Establish a plan of action to resolve the problem and implement the solution.
+
 5)Verify full system functionality and if applicable implement preventive measures.
+
 6)Document Findings, action and outcomes
 
 ## PROCEDURE:
